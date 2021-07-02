@@ -1,3 +1,3 @@
 # 2021-07-02-git-course
 
-something something <URL> clones repo
+'git clone <URL> : clones/downloads the repo to your computer'
